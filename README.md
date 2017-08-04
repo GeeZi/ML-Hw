@@ -1,2 +1,2 @@
 # ML-Hw
-The home in the machine learning course.
+The homework in the machine learning course.
